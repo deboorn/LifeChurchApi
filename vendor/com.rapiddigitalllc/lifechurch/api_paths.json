@@ -1,0 +1,10 @@
+{
+    "user_show": {
+        "verb": "GET",
+        "path": "/user/show/{id}"
+    },
+    "user_myaccount": {
+        "verb": "GET",
+        "path": "/user/myaccount"
+    }
+}
